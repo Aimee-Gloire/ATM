@@ -24,7 +24,7 @@ This project is a basic simulation of an ATM system. It reinforces foundational 
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Environment requirements
 
@@ -36,17 +36,19 @@ You need the following tools installed:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository to your local machine
 
-git clone <https://github.com/Aimee-Gloire/ATM.git>
+    git clone <https://github.com/Aimee-Gloire/ATM.git>
 2. Open the project folder in **VS Code**.
 3. Open the **Ubuntu(WSL)terminal**:
 4. . Compile the program:
 
    ```bash
    gcc main.c -o main
+   ```
+
 5. Run the compiled program/file:
 
    ```bash
